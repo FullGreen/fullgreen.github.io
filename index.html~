@@ -19,7 +19,7 @@
             <!-- Banner -->
             <section id="banner">
                 <h2>Fullgreen</h2>
-                <p>GALAXY S3 LTE SKT/KT/LG <br/> Red[빨간색]=CM / Purple[보라색]=AOSP / Blue[파란색]=순정기반롬</p>
+                <p>갤럭시S3 LTE SKT/KT/LG <br/> Red[빨간색]=CM / Purple[보라색]=AOSP / Blue[파란색]=순정기반롬</p>
                 <ul class="actions">
                     <!--					<li><a href="http://www.github.com/fullgreen" class="button special">GITHUB</a></li>-->
                     <li><a href="http://www.github.com/fullgreen" class="button special">FULLGREEN GITHUB</a></li>

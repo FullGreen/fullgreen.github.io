@@ -35,50 +35,34 @@
                             <h2>Download[다운로드]</h2>
                             <div class="features-row">
                                 <section>
-                                    <h4/>기기[DEVICE] : GALAXYS3LTE│SHV-E210S,K,L<br/>
+                                    <h4/>기기[DEVICE] : GALAXYS3LTE│SHV-E210S,K<br/>
                                     <br/><br/>Thanks for working with us to help Rom production.[롬 제작에 도움을 주신 분들께 감사드립니다.]
-                                    <br/>cyanogenmod, ckh469[방랑자], 아뚜르, gs3화녕, libhe1131, 스나이퍼2
+                                    <br/>DerTeufel1980, ckh469[방랑자], nian, NKaZ, S3부활, 그녀랑, Kasi, 하마짱, mono0989
                                     <ul class="actions">
-                                        <li><a href="https://www.androidfilehost.com/?w=files&flid=62794" class="button alt fit small">XperiaZ5themerom Download</a></li>
-                                        <li><a href="https://www.androidfilehost.com/?w=files&flid=62852" class="button alt fit small">Gapps Download</a></li>
-                                        <li><a href="https://www.androidfilehost.com/?w=files&flid=62840" class="button alt fit small">Modem Download</a></li>
-                                        <li><a href="http://arter97.com/browse/S3/kernel/xda/" class="button alt fit small">Arter97 Download</a></li>
-                                        <li><a href="http://ckh469.tistory.com/category/Devil%20Kernel" class="button alt fit small">Devil kernel Download</a></li>
+                                        <li><a href="https://www.androidfilehost.com/?w=files&flid=62739" class="button alt fit small">MIUI7 (S)ammy Download</a></li>
+                                        <li><a href="https://www.androidfilehost.com/?w=files&flid=62740" class="button alt fit small">MIUI7 (O)mni Download</a></li>
+                                        <ul/>
+                                        <li><a href="https://www.androidfilehost.com/?w=files&flid=62709" class="button alt fit small">Gapps Download</a></li>
                                         <li><a href="HowToInstall.html" class="button alt fit small">설치방법[How To Install]</a></li>
                                         <ul/>
                                         </section>
                             </div>
+                            
                             </section>
-                  
-        <!-- AD -->
-            <section class="box special">
-                <header class="major">
-                            <h2>월드오브탱크 블리츠</h2>
-                            <div class="features-row">
-                                <section>
-                                    <h4/>Google Play 이미지를 누르신후 월드 오브 탱크 블리츠가 뜨면 설치 한 번 해주시면 감사하겠습니다 :)             
-                                   <a href="http://appfing.com/3035312" target="_blank"><img src="http://img.podgate.com/webimg/adpick/install_google_white.png" alt="" width="300" height="100" /></a>
-                                    <a href="http://appfing.com/3035312" target="_blank"><img src="http://img.podgate.com/content/adpick/2016/0628/14671084177580053.jpg" alt="" width="800" height="400" /></a>
-                                    
-                                        </section>
-광란의 전투를 준비하십시오!
-월드 오브 탱크 블리츠는 다수의 수상 경력과 전 세계 약 11천만 명의 이용자를 자랑하는
-PC 온라인 게임 월드 오브 탱크의 개발사 워게이밍에서 선보이는 무료 모바일 MMO 액션 게임입니다.
-                            </div>
-                            </section>  
-                    <section class="box special">
-						<header class="major">
-							<h2>Screenshot[스크린샷]</h2>
+                
+                <section class="box special">
+                    <header class="major">
+                        <h2>Screenshot[스크린샷]</h2>
 							<p></p>
 						</header>
-                    <a href="#"><img src="images/xperiarom/screenshot1.png" alt="" width="370" height="657" /></a>
-                    <a href="#"><img src="images/xperiarom/screenshot2.png" alt="" width="370" height="657" /></a>
-                    <a href="#"><img src="images/xperiarom/screenshot3.png" alt="" width="370" height="657" /></a>
-                    <a href="#"><img src="images/xperiarom/screenshot4.png" alt="" width="370" height="657" /></a>
-                    <a href="#"><img src="images/xperiarom/screenshot5.png" alt="" width="370" height="657" /></a>
-                    <a href="#"><img src="images/xperiarom/screenshot6.png" alt="" width="370" height="657" /></a>
+                    <a href="#"><img src="images/miui/screenshot1.png" alt="" width="360" height="525" /></a>
+                    <a href="#"><img src="images/miui/screenshot2.png" alt="" width="360" height="525" /></a>
+                    <a href="#"><img src="images/miui/screenshot3.png" alt="" width="360" height="525" /></a>
+                    <a href="#"><img src="images/miui/screenshot4.png" alt="" width="360" height="525" /></a>
+                    <a href="#"><img src="images/miui/screenshot5.png" alt="" width="360" height="525" /></a>
+                    <a href="#"><img src="images/miui/screenshot6.png" alt="" width="360" height="525" /></a>
 					</section>
-				</section>
+            </section>
 
 			<!-- Footer -->
 				<footer id="footer">
