@@ -1627,6 +1627,7 @@
 		border-bottom: dotted 1px;
 		color: #e89980;
 		text-decoration: none;
+        border-bottom-color: transparent;
 	}
 
 		a:hover {
@@ -2426,7 +2427,7 @@
 		-ms-transition: background-color 0.2s ease-in-out, color 0.2s ease-in-out;
 		transition: background-color 0.2s ease-in-out, color 0.2s ease-in-out;
 		background-color: #666;
-		border-radius: 6px;
+		border-radius: 60px;
 		border: 0;
 		color: #ffffff;
 		cursor: pointer;
@@ -2434,7 +2435,7 @@
 		font-weight: 400;
 		height: 3em;
 		line-height: 3em;
-		padding: 0 2em;
+		padding: 0 5em;
 		text-align: center;
 		text-decoration: none;
 		white-space: nowrap;
@@ -2499,16 +2500,18 @@
 		input[type="reset"].alt,
 		input[type="button"].alt,
 		.button.alt {
-			background-color: transparent;
-			box-shadow: inset 0 0 0 2px #e5e5e5;
+            background-color: transparent;
+			box-shadow: inset 0 0 0 2px #95a5a6;
 			color: #777;
+            color: #95a5a6;
 		}
 
 			input[type="submit"].alt:hover,
 			input[type="reset"].alt:hover,
 			input[type="button"].alt:hover,
 			.button.alt:hover {
-				background-color: #f8f8f8;
+				background-color: #95a5a6;
+                color: #ffffff;
 			}
 
 			input[type="submit"].alt:active,
