@@ -20,12 +20,6 @@
 
 */
 
-
-
-
-
-
-
 /*  Fonts  */
 @font-face {
     font-family: 'lato-bold';
@@ -59,16 +53,6 @@
     font-weight: normal;
     font-style: normal;
 }
-
-
-
-
-
-
-
-
-
-
 
 /*  General CSS  */
 body{
@@ -107,94 +91,6 @@ h5, h6          { font-weight: bolder }
 .clearfix {  
     *zoom: 1;  
 }
-
-
-
-
-
-
-
-
-
-
-/*  Header Section  */
-
-header{
-    width: 100%;
-    height: 100px;
-    background: rgba(28, 54, 85, .2);
-}
-
-header a.hamburger{
-    text-decoration: none;
-    display: none;
-    float: right;
-    margin-top: 41px;
-    width: 24px;
-    height: 19px;
-    background: url('../img/hamburger_icon.png') no-repeat;
-}
-
-header a.hamburger.opned{
-    width: 19px;
-    background: url('../img/close_menu_icon.png') no-repeat;
-}
-
-
-header nav{
-    float: right;
-    opacity: 1;
-}
-
-
-header nav ul{
-    margin-top: 40px;
-    list-style: none;
-    overflow: hidden;
-    float: left;
-}
-
-header nav ul li{
-    float: left;
-    margin-left: 50px;
-}
-
-header nav ul li a,
-header nav .login_btn{
-    text-decoration: none;
-    color: #fff;
-    font-family: "lato-regular", Helvetica, Arial, sans-serif;
-    font-size: 16px;
-    letter-spacing: 1px;
-
-}
-
-header nav .login_btn{
-    float: left;
-    margin: 35px 0 0 50px;
-    padding: 5px 15px 5px 15px;
-    border: 1px solid #ffffff;
-    background: transparent;
-
-    transition: background .1s linear;
-    -webkit-transition: background .1s linear;
-    -moz-transition: background .1s linear;
-    -o-transition: background .1s linear;
-}
-
-header nav .login_btn:hover{
-    background: #ffffff;
-    color: #1c3655;
-}
-
-
-
-
-
-
-
-
-
 
 /*  Hero Section  */
 
@@ -239,14 +135,67 @@ header nav .login_btn:hover{
 }
 
 
+/*  main text section  */
+.maintext{
+    padding: 20px 0;
+}
 
+.maintext ul.properties_list{
+    list-style: none;
+    overflow: hidden;
+}
+
+.maintext ul.properties_list li{
+    display: block;
+    width: 50%;
+    height: auto;
+    position: relative;
+    float: left;
+}
+
+.maintext ul.properties_list li:nth-child(3n+0){
+    margin-right: 0;
+}
+
+.maintext ul li .property_details{
+    width: 87.64705882352941%;
+    padding: 0% 0% 0% 5.882352941176471%;
+    border-left: 2px solid #95a5a6;
+    
+    transition: all .2s linear;
+    -webkit-transition: all .2s linear;
+    -moz-transition: all .2s linear;
+    -o-transition: all .2s linear;
+}
+
+.maintext ul li .property_details h1{
+    color: #95a5a6;
+    font-family: "lato-bold", Helvetica, Arial, sans-serif;
+    font-size: 20px!important;
+    font-weight: bold;
+    margin-bottom: 5px;
+    line-height: 28px;
+}
+
+.maintext ul li .property_details h1 a{
+    text-decoration: none;
+    color: #95a5a6;
+}
+
+.maintext ul li .property_details h2{
+    color: #95a5a6;
+    font-family: "lato-regular", Helvetica, Arial, sans-serif;
+    font-size: 12px;
+    line-height: 5px;
+    font-weight: normal;
+}
 
 
 
 
 /*  listings section  */
 .listings{
-    padding: 100px 0;
+    padding: 10px 0;
 }
 
 .listings ul.properties_list{
@@ -256,11 +205,12 @@ header nav .login_btn:hover{
 
 .listings ul.properties_list li{
     display: block;
-    width: 30.90909090909091%;
+    #width: 30.90909090909091%;
+    width: 20%;
     height: auto;
     position: relative;
     float: left;
-    margin: 0 3.636363636363636% 3.636363636363636% 0;
+    #margin: 0 3.636363636363636% 3.636363636363636% 0;
 }
 
 .listings ul.properties_list li img.property_img{
@@ -268,8 +218,8 @@ header nav .login_btn:hover{
     border-bottom: 1px solid #ffffff;
     border-left: 1px solid #ffffff;
     border-right: 1px solid #ffffff;
-    width: 320px;
-    height: 466px;
+    width: 210px;
+    height: 300px;
     vertical-align: top;
 }
 
@@ -286,11 +236,8 @@ header nav .login_btn:hover{
 
 .listings ul li .property_details{
     width: 87.64705882352941%;
-    padding: 2.941176470588235% 5.882352941176471% 4.117647058823529% 5.882352941176471%;
-    border-top: 1px solid #ffffff;
-    border-bottom: 1px solid #ffffff;
-    border-left: 1px solid #ffffff;
-    border-right: 1px solid #ffffff;
+    padding: 0% 0% 0% 5.882352941176471%;
+    border-left: 3px solid #95a5a6;
     
     transition: all .2s linear;
     -webkit-transition: all .2s linear;
@@ -316,7 +263,7 @@ header nav .login_btn:hover{
     color: #95a5a6;
     font-family: "lato-regular", Helvetica, Arial, sans-serif;
     font-size: 12px;
-    line-height: 26px;
+    line-height: 0px;
     font-weight: normal;
 }
 
