@@ -96,7 +96,7 @@ h5, h6          { font-weight: bolder }
 
 .hero{
     width: 100%;
-    height: 1080px;
+    height: 800px;
     position: relative;
     background: url('../img/hero.jpg') no-repeat bottom center;
     background-size: cover;
