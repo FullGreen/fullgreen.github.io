@@ -15,7 +15,7 @@ $message = nl2br($HTTP_POST_VARS['message']);
 //htmlspecialchars
 
 //받는 사람
-$to_email = "abin030187@naver.com";
+$to_email = "abin030187@gmail.com";
 
 //메일 헤더
 $mailheader="Content-type:text/html;charset=EUC_KR";
